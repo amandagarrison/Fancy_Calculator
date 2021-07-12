@@ -1,0 +1,15 @@
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\Fancy_Calculator.exe
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\Fancy_Calculator.deps.json
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\Fancy_Calculator.runtimeconfig.json
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\Fancy_Calculator.runtimeconfig.dev.json
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\Fancy_Calculator.dll
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\ref\Fancy_Calculator.dll
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\bin\Debug\net5.0\Fancy_Calculator.pdb
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.AssemblyInfoInputs.cache
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.AssemblyInfo.cs
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.dll
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\ref\Fancy_Calculator.dll
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.pdb
+C:\Users\AmandaGarrison\source\repos\Fancy_Calculator\obj\Debug\net5.0\Fancy_Calculator.genruntimeconfig.cache
